@@ -1,5 +1,3 @@
-print("CALCULADORA")
-
 numero1 = input("Digite o primeiro número: ")
 numero2 = input("Digite o segundo número: ")
 print(" 1. Soma\n 2. Subtração\n 3. Multiplicação\n 4. Divisão")
